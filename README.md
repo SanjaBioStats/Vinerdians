@@ -30,11 +30,9 @@ Rather than a blueprint, this is a test run that started from a simple curiosity
 
 This repository is the playground for the experiment. Instead of vines and tractors, it starts with files and folders.
 
-/data/ → Open datasets used in the scripts
+/a plot says more than a tousand tables/ → generated plots, graphics, stuff like this)
 
-/Overview/ → Readme file with an overview of the progress and subfolders for output (generated plots, tables, stuff like this)
-
-/Scripts/ → R Scripts used for evaluation of Data, for each analysis there is a subfolder with a readme file and the script 
+Readme files → For every Script there will be an extra Readme file, additional information about the used data sets etc. you can all found in the script. 
 
 
 
